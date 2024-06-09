@@ -18,6 +18,8 @@ path_data = 'C:/Users/b.lefebvre/Documents/Work/Python/RecupDataOscillo/Donnees/
 # file= path_data + 'tek0000ALL2.csv'
 file = path_data + 'Tek004_ALL.csv'
 
+# Modifs appliquées le 08/06/2024
+
 # %%
 # -------------------------EXTRACT DATA FROM CSV--------------------------
 # open file in read mode
